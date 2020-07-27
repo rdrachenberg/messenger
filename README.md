@@ -3,4 +3,4 @@ A JS program that records and displays messages. The user can post a message, su
 ## Demo
 https://rdrachenberg.github.io/messenger/ - Messenger
 
-![](https://rdrachenberg.github.io/messenger/)
+![](messenger.gif)
